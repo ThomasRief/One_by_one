@@ -1,0 +1,29 @@
+Projekt Klonen: 
+Ordner erstellen, dann mit 
+	cd <Ordner> 
+in den Ordner gehen	
+
+dann
+	git clone <clone URL>
+
+falls Projekt schon gestartet, zum Holen der aktuellen Daten
+
+weitere Befehle:
+
+	git pull
+
+  	git status		# gucken, was geändert ist
+
+  	git diff		# genauer gucken, was geändert ist
+
+
+  	git add <Dateien, die hochgeladen werden sollen>
+
+	git add .		# alle geänderten Dateien werden übernommen
+
+  	git commit -m "<Beschreibung der Änderungen>"
+
+
+ 	git pull 		# aktuelle Version runterladen
+
+	git push		# für alle sichtbar hochladen

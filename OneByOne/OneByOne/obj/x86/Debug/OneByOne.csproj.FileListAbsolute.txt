@@ -1,0 +1,16 @@
+C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOne\bin\x86\Debug\Content\Font.xnb
+C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOne\bin\x86\Debug\OneByOne.exe
+C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOne\bin\x86\Debug\OneByOne.pdb
+C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.csprojResolveAssemblyReference.cache
+C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOne\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.exe
+C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.pdb
+C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOne\bin\x86\Debug\Content\block.xnb
+C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\bin\x86\Debug\Content\block.xnb
+C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\bin\x86\Debug\Content\Font.xnb
+C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\bin\x86\Debug\OneByOne.exe
+C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\bin\x86\Debug\OneByOne.pdb
+C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.exe
+C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.pdb
