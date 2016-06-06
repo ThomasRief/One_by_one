@@ -1,2 +1,0 @@
-C:\Users\Schüler\Documents\Visual Studio 2010\Projects\OneByOne\OneByOne\OneByOneContent\obj\x86\Debug\OneByOneContent.contentprojResolveAssemblyReference.cache
-C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOneContent\obj\x86\Debug\ResolveAssemblyReference.cache
