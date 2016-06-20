@@ -14,11 +14,19 @@ C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\obj\x86\Debug\ResolveAssemb
 C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.exe
 C:\Users\Schüler\Desktop\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.pdb
-D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\bin\x86\Debug\Content\block.xnb
-D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\bin\x86\Debug\Content\Font.xnb
-D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\bin\x86\Debug\OneByOne.exe
-D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\bin\x86\Debug\OneByOne.pdb
-D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\obj\x86\Debug\OneByOne.csprojResolveAssemblyReference.cache
-D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\obj\x86\Debug\OneByOne.exe
-D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\obj\x86\Debug\OneByOne.pdb
+C:\Users\Schüler\One_by_one\OneByOne\OneByOne\OneByOne\bin\x86\Debug\Content\block.xnb
+C:\Users\Schüler\One_by_one\OneByOne\OneByOne\OneByOne\bin\x86\Debug\Content\Font.xnb
+C:\Users\Schüler\One_by_one\OneByOne\OneByOne\OneByOne\bin\x86\Debug\OneByOne.exe
+C:\Users\Schüler\One_by_one\OneByOne\OneByOne\OneByOne\bin\x86\Debug\OneByOne.pdb
+C:\Users\Schüler\One_by_one\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.csprojResolveAssemblyReference.cache
+C:\Users\Schüler\One_by_one\OneByOne\OneByOne\OneByOne\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Schüler\One_by_one\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.exe
+C:\Users\Schüler\One_by_one\OneByOne\OneByOne\OneByOne\obj\x86\Debug\OneByOne.pdb
+C:\GIT\One_by_one\OneByOne\OneByOne\obj\x86\Debug\OneByOne.csprojResolveAssemblyReference.cache
+C:\GIT\One_by_one\OneByOne\OneByOne\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GIT\One_by_one\OneByOne\OneByOne\obj\x86\Debug\OneByOne.exe
+C:\GIT\One_by_one\OneByOne\OneByOne\bin\x86\Debug\Content\block.xnb
+C:\GIT\One_by_one\OneByOne\OneByOne\bin\x86\Debug\Content\Font.xnb
+C:\GIT\One_by_one\OneByOne\OneByOne\bin\x86\Debug\OneByOne.exe
+C:\GIT\One_by_one\OneByOne\OneByOne\bin\x86\Debug\OneByOne.pdb
+C:\GIT\One_by_one\OneByOne\OneByOne\obj\x86\Debug\OneByOne.pdb

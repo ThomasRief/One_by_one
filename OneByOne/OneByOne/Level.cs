@@ -31,14 +31,24 @@ namespace OneByOne
                 }
             
             }
+        }
+        public static void TurnAllSelectedBlocksFilled()
+        {
+            for (int x = 0; x < Field.GetLength(0); x++)
+            {
+                for (int y = 0; y < Field.GetLength(1); y++)
+                {
+                    if (Field[x, y].State == BlockState.Selected)
+                        Field[x, y].State = BlockState.Filled;
+                }
 
+            }
         }
 
         public static void Update()
         {
             ThisPlayer.Update();
         }
-
         public static void Draw(SpriteBatch SB)
         {
             for (int x = 0; x < Field.GetLength(0); x++)
@@ -52,17 +62,6 @@ namespace OneByOne
             ThisPlayer.Draw(SB);
         }
 
-        public static void TurnAllSelectedBlocksFilled() 
-        {
-            for (int x = 0; x < Field.GetLength(0); x++)
-            {
-                for (int y = 0; y < Field.GetLength(1); y++)
-                {
-                    if (Field[x,y].State == BlockState.Selected)
-                        Field[x,y].State = BlockState.Filled; 
-                }
-
-            }
-        }
+        
     }
 }

@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\bin\x86\Debug\Content\block.xnb</Output>
-      <Time>2016-05-09T14:22:04+02:00</Time>
+      <Output>C:\GIT\One_by_one\OneByOne\OneByOne\bin\x86\Debug\Content\block.xnb</Output>
+      <Time>2016-06-13T14:17:02+02:00</Time>
     </Item>
     <Item>
       <Source>Font.spritefont</Source>
@@ -16,8 +16,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\bin\x86\Debug\Content\Font.xnb</Output>
-      <Time>2016-05-09T14:22:16+02:00</Time>
+      <Output>C:\GIT\One_by_one\OneByOne\OneByOne\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2016-06-13T14:17:02+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,10 +25,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOneContent\</RootDirectory>
-      <LoggerRootDirectory>D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOneContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\S nach L Tauschordner R20a\OneByOne_13-6\OneByOne\OneByOne\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\GIT\One_by_one\OneByOne\OneByOneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\GIT\One_by_one\OneByOne\OneByOne\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\GIT\One_by_one\OneByOne\OneByOneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\GIT\One_by_one\OneByOne\OneByOne\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
